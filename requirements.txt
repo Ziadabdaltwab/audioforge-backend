@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pydub
+librosa
+soundfile
+rnnoise
+ffmpeg-python
